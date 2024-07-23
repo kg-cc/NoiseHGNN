@@ -4,7 +4,7 @@ This repo is for the source code of NoiseHGNN.
 Please cite our paper if you use the code or data.
 
 ## Dataset
-We provide datasets for ACM,DBLP, Freebase,IMDB and PubMed_NC.
+We provide datasets for ACM, DBLP, Freebase, and IMDB.
 
 ```
 python run_new.py --dataset DBLP
